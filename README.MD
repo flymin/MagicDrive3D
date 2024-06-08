@@ -21,7 +21,7 @@ As for upgrades in video generation, we will merge the implementation to [MagicD
 
 ```bibtex
 @article{gao2024magicdrive3d,
-  title={MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes},
+  title={{MagicDrive3D}: Controllable 3D Generation for Any-View Rendering in Street Scenes},
   author={Gao, Ruiyuan and Chen, Kai and Li, Zhihao and Hong, Lanqing and Li, Zhenguo and Xu, Qiang},
   journal={arXiv preprint arXiv:2405.14475},
   year={2024}
