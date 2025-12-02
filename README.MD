@@ -13,18 +13,18 @@ If you find our work useful, Please give us a star 🌟!
 
 ## Plan
 
-We will release the code for scene reconstruction in this repo.
+The authors are all busy in other tasks and do not have time for code release. If you want to request the source code (**DRAFT**) for scene resonstruction, please send email to rygao.me@gmail.com. There will not be usage support. Thanks for your understanding.
 
 As for upgrades in video generation, we will merge the implementation to [MagicDrive-t](https://github.com/cure-lab/MagicDrive/tree/video) (i.e., video branch of [MagicDrive](https://github.com/cure-lab/MagicDrive)).
 
 ## Cite Us
 
 ```bibtex
-@article{gao2024magicdrive3d,
+@inproceedings{gao2026magicdrive3d,
   title={{MagicDrive3D}: Controllable 3D Generation for Any-View Rendering in Street Scenes},
   author={Gao, Ruiyuan and Chen, Kai and Li, Zhihao and Hong, Lanqing and Li, Zhenguo and Xu, Qiang},
-  journal={arXiv preprint arXiv:2405.14475},
-  year={2024}
+  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  year={2026}
 }
 
 
